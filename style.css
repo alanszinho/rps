@@ -1,0 +1,18 @@
+body {
+    font-family: monospace;
+    text-align: center;            
+    font-size: 24px;
+    background: linear-gradient(45deg,#aaa, #ccc, #fff);
+} 
+.bot {font-size: 16px;}
+.rock, .paper, .scissors {
+    padding-left: 10px;
+    padding-top: 10px;
+    cursor: pointer;
+}
+.container {
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
