@@ -4,7 +4,7 @@ body {
     font-size: 24px;
     background: linear-gradient(45deg,#aaa, #ccc, #fff);
 } 
-.bot {font-size: 16px;}
+.bot {font-size: 24px;}
 .rock, .paper, .scissors {
     padding-left: 10px;
     padding-top: 10px;
